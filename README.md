@@ -96,7 +96,3 @@ We performed **customer segmentation** using **RFM scoring** and **K-means clust
 - 15% reduction in churn  
 - 20% decrease in marketing waste  
 - Higher marketing ROI through personalization  
-
----
-
-## 📁 Project Structure  
