@@ -112,7 +112,7 @@ Through RFM segmentation and K-means clustering, we identified six actionable cu
 - 20% decrease in marketing waste  
 - Higher marketing ROI through personalization  
 
-[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7e4e097a-76b5-479f-90f7-00d9e7f53d6a/ReportSectionf3082a9e74cd77544b86?experience=power-bi) | [🧾 Explore Full Code](Customer-Segmentation-analysis/customer_segmentation_analysis.ipynb)
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7e4e097a-76b5-479f-90f7-00d9e7f53d6a/ReportSectionf3082a9e74cd77544b86?experience=power-bi) | [🧾 Explore Full Code](https://github.com/hudaelbasheer/Customer-Segmentation-analysis/blob/main/customer_segmentation_analysis.ipynb)
 🤝 Let's Connect
 📧 Email: hudaelbasheer15@gmail.com
 💼 LinkedIn 
