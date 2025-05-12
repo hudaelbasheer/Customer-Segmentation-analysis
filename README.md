@@ -48,7 +48,7 @@ We performed **customer segmentation** using **RFM scoring** and **K-means clust
 
 ## 🛠️ Tools & Technologies  
 
-- **Python**: `pandas`, `matplotlib`, `scikit-learn`  
+- **Python**:  `pandas`, `numpy`, `datetime`, `sklearn.preprocessing`, `sklearn.cluster`, `sklearn.metrics`
 - **Power BI**: Interactive visualization dashboard  
 - **SQL**: Data cleaning and aggregation  
 - **Git & GitHub**: Version control and project sharing  
@@ -83,26 +83,36 @@ We performed **customer segmentation** using **RFM scoring** and **K-means clust
 ## 📊 Key Results & Insights  
 Through RFM segmentation and K-means clustering, we identified six actionable customer segments:
 
-Segment	Description
-🏆 Champions	Recent (1–2 months), high frequency, high spenders. Top revenue drivers.
-🔁 Loyal Customers	Recent (1–3 months), moderate to high frequency and spend. Engaged and stable.
-⚠️ At Risk	Recent (2–6 months), low frequency, low spenders. Show signs of churn.
-🌱 New Customers	Very recent (0–1 month), low frequency/spend. Potential to nurture.
-💸 Big Spenders	Medium frequency, very high spend. Could be retained with special care.
-❓ Others	Irregular, infrequent, low/average spenders. Need nurturing or reactivation.
+| Segment           | Description                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| 🏆 Champions       | Recent (1–2 months), high frequency, high spenders. Top revenue drivers.    |
+| 🔁 Loyal Customers | Recent (1–3 months), moderate to high frequency and spend. Engaged/stable.  |
+| ⚠️ At Risk         | Recent (2–6 months), low frequency, low spenders. Show signs of churn.      |
+| 🌱 New Customers   | Very recent (0–1 month), low frequency/spend. Potential to nurture.         |
+| 💸 Big Spenders    | Medium frequency, very high spend. Could be retained with special care.     |
+| ❓ Others          | Irregular, infrequent, low/average spenders. Need nurturing or reactivation.|
 
-✅## Recommendations
-Segment	Actions
-🏆 Champions	Offer exclusive deals, loyalty rewards, and personalized offers
-🔁 Loyal Customers	Provide incentives, gather feedback, and engage regularly
-⚠️ At Risk	Run win-back campaigns and offer limited-time discounts
-🌱 New Customers	Send welcome offers and introductory discounts
-💸 Big Spenders	Give VIP treatment, loyalty programs, and priority access
-❓ Others	Track and nurture toward higher segments with targeted messaging
- 
+---
+
+## ✅ Recommendations
+
+| Segment           | Actions                                                                     |
+|-------------------|------------------------------------------------------------------------------|
+| 🏆 Champions       | Offer exclusive deals, loyalty rewards, and personalized offers             |
+| 🔁 Loyal Customers | Provide incentives, gather feedback, and engage regularly                   |
+| ⚠️ At Risk         | Run win-back campaigns and offer limited-time discounts                     |
+| 🌱 New Customers   | Send welcome offers and introductory discounts                              |
+| 💸 Big Spenders    | Give VIP treatment, loyalty programs, and priority access                   |
+| ❓ Others          | Track and nurture toward higher segments with targeted messaging            |
+
+---
 
 📈 **Projected Impact:**  
 - 15% reduction in churn  
 - 20% decrease in marketing waste  
 - Higher marketing ROI through personalization  
-[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7e4e097a-76b5-479f-90f7-00d9e7f53d6a/ReportSectionf3082a9e74cd77544b86?experience=power-bi) | [Explore Full Code](notebooks/customer_segmentation.ipynb)
+
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7e4e097a-76b5-479f-90f7-00d9e7f53d6a/ReportSectionf3082a9e74cd77544b86?experience=power-bi) | [🧾 Explore Full Code](Customer-Segmentation-analysis/customer_segmentation_analysis.ipynb)
+🤝 Let's Connect
+📧 Email: hudaelbasheer15@gmail.com
+💼 LinkedIn 
